@@ -5,4 +5,6 @@
 
 문제가 될 시 언제든지 삭제가 될 수 있습니다.
 
+/obsidian_race [start/stop]을 통해 게임을 시작하고 종료할 수 있습니다.
+
 [![원본](https://github.com/user-attachments/assets/87493065-4227-43ad-b6fb-8238be8bf33c)](https://youtu.be/erlekfacCtU?si=wqe857e0czn9ba8P)
